@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <integer name="gtfs_rts_db_version">20141001</integer>
+    <string name="gtfs_rts_authority">org.mtransit.android.ca_la_presqu_ile_citpi_bus.gtfs</string>
+    <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
+    <integer name="gtfs_rts_agency_type">3</integer>
+    <string name="gtfs_rts_timezone">America/Montreal</string>
+    <string name="gtfs_rts_area_min_lat">45.3507629713124</string>
+    <string name="gtfs_rts_area_max_lat">45.5139917811133</string>
+    <string name="gtfs_rts_area_min_lng">-74.2985752274766</string>
+    <string name="gtfs_rts_area_max_lng">-73.683768552547</string>
+    <string name="gtfs_rts_color">258FE8</string>
+</resources>

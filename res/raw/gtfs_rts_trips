@@ -1,46 +1,46 @@
-100,0,'Service AM',1
-101,0,'Service PM',1
-200,0,'Service AM',2
-201,0,'Service PM',2
-301,0,'Service AM',3
-300,0,'Service PM',3
-400,0,'Gare Vaudreuil - Secteur Floralies',4
+100,0,'AM',1
+101,0,'PM',1
+200,0,'AM',2
+201,0,'PM',2
+301,0,'AM',3
+300,0,'PM',3
+400,0,'Gare Vaudreuil - Floralies',4
 500,0,'Brodeur / St-Charles / Gare Dorion',5
 501,0,'Gare Vaudreuil',5
-600,0,'Service AM',6
-601,0,'Service PM',6
+600,0,'AM',6
+601,0,'PM',6
 701,0,'Gare Vaudreuil',7
 700,0,'Pointe-Claire / Ste-Anne-De-Bellevue',7
-800,0,'Service AM',8
-801,0,'Service PM',8
-1501,0,'Secteur Dorion',15
-1500,0,'Secteur Vaudreuil',15
+800,0,'AM',8
+801,0,'PM',8
+1501,0,'Dorion',15
+1500,0,'Vaudreuil',15
 2100,0,'Hudson / Vaudreuil',21
-3101,0,'Service AM',31
-3100,0,'Service PM',31
-3201,0,'Service AM',32
-3200,0,'Service PM',32
-3300,0,'Service AM',33
-3301,0,'Service PM',33
+3101,0,'AM',31
+3100,0,'PM',31
+3201,0,'AM',32
+3200,0,'PM',32
+3300,0,'AM',33
+3301,0,'PM',33
 3501,0,'Gare Dorion',35
 3500,0,'Ste-Anne-De-Bellevue / Île-Perrot',35
 4000,0,'Côte-Vertu',40
 4001,0,'Vaudreuil',40
-4101,0,'Service AM',41
-4100,0,'Service PM',41
-4201,0,'Service AM',42
-4200,0,'Service PM',42
-4301,0,'Service AM',43
-4300,0,'Service PM',43
+4101,0,'AM',41
+4100,0,'PM',41
+4201,0,'AM',42
+4200,0,'PM',42
+4301,0,'AM',43
+4300,0,'PM',43
 4401,0,'Pincourt T-V',44
 4400,0,'Ste-Anne-De-Bellevue',44
-4600,0,'Service AM',46
-4601,0,'Service PM',46
-4700,0,'Service AM',47
-4701,0,'Service PM',47
+4600,0,'AM',46
+4601,0,'PM',46
+4700,0,'AM',47
+4701,0,'PM',47
 5101,0,'St-Lazare',51
 5100,0,'Vaudreuil',51
 6101,0,'Rigaud',61
 6100,0,'Vaudreuil',61
-9100,0,'Service AM',91
-9101,0,'Service PM',91
+9100,0,'AM',91
+9101,0,'PM',91

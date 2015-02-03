@@ -2,11 +2,17 @@ Title: CIT La Presqu'Île Bus (MonTransit)
 ----------
 Short description: CIT La Presqu'Île bus information for MonTransit BETA.
 ----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from January 5, 2015 to February 5, 2020.
+----------
 Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/ILuaSR
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 This application adds CIT La Presqu'Île bus information to MonTransit BETA.
+
+CIT La Presqu'Île serves Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot and Notre-Dame-de-l-Île-Perrot.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 

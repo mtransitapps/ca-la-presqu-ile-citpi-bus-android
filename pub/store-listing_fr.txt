@@ -1,16 +1,21 @@
 Title: Bus CIT La Presqu'Île (MonTransit)
 ----------
-Short description: Informations des bus CIT La Presqu'Île pour MonTransit BETA.
+Short description:
+Bus CIT La Presqu'Île pour MonTransit BETA
+Horaires. Tweets de @CITLaPresquile
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 5 Janvier 2015 au 5 Février 2020.
+Tweets de @CITLaPresquile.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations des bus CIT La Presqu'Île à MonTransit BETA.
+
+Cette application contient les horaires et les dernières nouvelles de @CITLaPresquile sur Twitter.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Le CIT La Presqu'Île dessert Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot et Notre-Dame-de-l-Île-Perrot.
 
@@ -27,3 +32,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android
 
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT La Presqu'Île.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles (Twitter)

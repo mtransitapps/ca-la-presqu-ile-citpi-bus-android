@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MonTransit CIT La Presqu\'Île Bus</string>
-    <string name="app_desc">Données des bus CIT La Presqu\'Île pour MonTransit.</string>
+    <string name="app_desc">Données des autobus du CIT La Presqu\'Île pour MonTransit.</string>
 </resources>

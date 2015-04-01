@@ -1,8 +1,8 @@
 Title: CIT La Presqu'Île Bus - MonTr…
 ----------
 Short description:
-CIT La Presqu'Île bus for MonTransit
-Schedule. Tweets from @CITLaPresquile
+CIT La Presqu'Île buses for MonTransit.
+Schedule. Tweets from @CITLaPresquile.
 ----------
 What's new in this version?:
 Schedule from January 5, 2015 to February 5, 2020.

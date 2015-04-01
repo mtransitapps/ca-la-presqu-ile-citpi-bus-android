@@ -1,8 +1,8 @@
 Title: Bus CIT La Presqu'Île - MonTr…
 ----------
 Short description:
-Bus CIT La Presqu'Île pour MonTransit
-Horaires. Tweets de @CITLaPresquile
+Autobus CIT La Presqu'Île pour MonTransit.
+Horaires. Tweets de @CITLaPresquile.
 ----------
 What's new in this version?:
 Horaires du 5 Janvier 2015 au 5 Février 2020.

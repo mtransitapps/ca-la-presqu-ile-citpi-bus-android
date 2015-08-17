@@ -5,7 +5,7 @@ CIT La Presqu'Île buses for MonTransit.
 Schedule. Tweets from @CITLaPresquile.
 ----------
 What's new in this version?:
-Schedule from June 1, 2015 to February 5, 2020.
+Schedule from August 17, 2015 to February 5, 2020.
 Tweets from @CITLaPresquile.
 ----------
 Full description:

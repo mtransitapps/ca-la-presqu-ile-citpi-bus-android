@@ -9,17 +9,14 @@
 501,0,'Gare Vaudreuil',5
 600,0,'AM',6
 601,0,'PM',6
-701,0,'Gare Vaudreuil',7
-700,0,'Pointe-Claire / Ste-Anne-De-Bellevue',7
 800,0,'AM',8
 801,0,'PM',8
+900,0,'Gare Vaudreuil / Marier',9
 1501,0,'Dorion',15
 1500,0,'Vaudreuil',15
 2100,0,'Hudson / Vaudreuil',21
-3101,0,'AM',31
-3100,0,'PM',31
-3201,0,'AM',32
-3200,0,'PM',32
+3100,0,'AM',31
+3101,0,'PM',31
 3300,0,'AM',33
 3301,0,'PM',33
 3501,0,'Gare Dorion',35
@@ -40,7 +37,7 @@
 4701,0,'PM',47
 5101,0,'St-Lazare',51
 5100,0,'Vaudreuil',51
-6101,0,'Rigaud',61
-6100,0,'Vaudreuil',61
+6100,0,'AM',61
+6101,0,'PM',61
 9100,0,'AM',91
 9101,0,'PM',91

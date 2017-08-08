@@ -1,19 +1,19 @@
-Title: Bus CIT La Presqu'Île - MonTr…
+Title: Bus RTM (CIT) La Presqu'Île - MonTransit
 ----------
 Short description:
-Autobus CIT La Presqu'Île pour MonTransit.
-Horaires. Tweets de @CITLaPresquile.
+Autobus RTM (CIT) La Presqu'Île pour MonTransit.
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 31 juillet 2017 au 5 février 2020.
-Tweets de @CITLaPresquile.
+Tweets de @RTMLaPresquile.
 ----------
 Full description:
-Cette application ajoute les informations des autobus CIT La Presqu'Île à MonTransit.
+Cette application ajoute les informations des autobus RTM (CIT) La Presqu'Île à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @CITLaPresquile sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @RTMLaPresquile sur Twitter.
 
-Le CIT La Presqu'Île dessert Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot et Notre-Dame-de-l-Île-Perrot.
+RTM (CIT) La Presqu'Île dessert Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot et Notre-Dame-de-l-Île-Perrot.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -21,13 +21,13 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de transport métropolitain (AMT).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT La Presqu'Île.
+Cette application n'est pas associée au Réseau de transport métropolitain (AMT) et RTM (CIT) La Presqu'Île.
 
 Autorisations :
 - Autres: requis pour lire les nouvelles (Twitter)

@@ -1,19 +1,19 @@
-Title: CIT La Presqu'Île Bus - MonTr…
+Title: RTM (CIT) La Presqu'Île Bus - MonTransit
 ----------
 Short description:
-CIT La Presqu'Île buses for MonTransit.
-Schedule. Tweets from @CITLaPresquile.
+RTM (CIT) La Presqu'Île buses for MonTransit.
+Schedule. News.
 ----------
 What's new in this version?:
 Schedule from July 31, 2017 to February 5, 2020.
-Tweets from @CITLaPresquile.
+Tweets from @RTMLaPresquile.
 ----------
 Full description:
-This application adds CIT La Presqu'Île buses information to MonTransit.
+This application adds RTM (CIT) La Presqu'Île buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @CITLaPresquile on Twitter.
+This app contains the buses schedule and the latest news from @RTMLaPresquile on Twitter.
 
-CIT La Presqu'Île serves Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot and Notre-Dame-de-l-Île-Perrot.
+RTM (CIT) La Presqu'Île serves Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot and Notre-Dame-de-l-Île-Perrot.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
@@ -21,13 +21,13 @@ This application only has a temporary icon and no screen: download the MonTransi
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by the Agence Métropolitaine de Transport.
+The information comes from the GTFS file provided by the Réseau de transport métropolitain (AMT).
 https://www.amt.qc.ca/en/about/open-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android
 
-This app is not related with the Agence Métropolitaine de Transport and CIT La Presqu'Île.
+This app is not related with the Réseau de transport métropolitain (AMT) and RTM (CIT) La Presqu'Île.
 
 Permissions:
 - Other: required to read news (Twitter)

@@ -1,4 +1,4 @@
-# CIT La Presqu'Île Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# RTM (CIT) La Presqu'Île Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android/master/pub/hi-res-app-icon.png"/>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="gtfs_rts_label">CIT La Presqu\'Île Bus</string>
-    <string name="gtfs_rts_short_name">CIT La Presqu\'Île</string>
+    <string name="gtfs_rts_label">RTM La Presqu\'Île Bus</string>
+    <string name="gtfs_rts_short_name">RTM La Presqu\'Île</string>
 </resources>

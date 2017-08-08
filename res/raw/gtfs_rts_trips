@@ -6,8 +6,6 @@
 300,0,'PM',3
 401,0,'Floralies',4
 400,0,'Gare Vaudreuil',4
-500,0,'Gare Dorion',5
-501,0,'Gare Vaudreuil',5
 600,0,'AM',6
 601,0,'PM',6
 701,0,'Gare Vaudreuil',7
@@ -24,7 +22,7 @@
 3300,0,'AM',33
 3301,0,'PM',33
 3501,0,'Gare Dorion',35
-3500,0,'Ste-Anne-de-Bellevue',35
+3500,0,'Ste-Anne-De-Bellevue',35
 4000,0,'Côte-Vertu',40
 4001,0,'Vaudreuil',40
 4101,0,'AM',41
@@ -39,11 +37,17 @@
 4601,0,'PM',46
 4700,0,'AM',47
 4701,0,'PM',47
-5101,0,'St-Lazare',51
-5100,0,'Vaudreuil',51
+5100,0,'AM',51
+5101,0,'PM',51
 6100,0,'AM',61
 6101,0,'PM',61
+9100,0,'AM',91
+9101,0,'PM',91
 11501,0,'Gare Dorion',115
 11500,0,'Gare Vaudreuil',115
 33501,0,'Gare Dorion',335
 33500,0,'Ste-Anne-De-Bellevue',335
+100500,0,'Gare Dorion',1005
+100501,0,'Gare Vaudreuil',1005
+200500,0,'Gare Dorion',2005
+200501,0,'Gare Vaudreuil',2005

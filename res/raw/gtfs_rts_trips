@@ -6,6 +6,8 @@
 300,0,'PM',3
 401,0,'Floralies',4
 400,0,'Gare Vaudreuil',4
+500,0,'Gare Dorion',5
+501,0,'Gare Vaudreuil',5
 600,0,'AM',6
 601,0,'PM',6
 701,0,'Gare Vaudreuil',7
@@ -47,7 +49,3 @@
 11500,0,'Gare Vaudreuil',115
 33501,0,'Gare Dorion',335
 33500,0,'Ste-Anne-De-Bellevue',335
-100500,0,'Gare Dorion',1005
-100501,0,'Gare Vaudreuil',1005
-200500,0,'Gare Dorion',2005
-200501,0,'Gare Vaudreuil',2005

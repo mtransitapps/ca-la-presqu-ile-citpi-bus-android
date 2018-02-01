@@ -2,6 +2,7 @@
 2,'2','Gare Vaudreuil / Bourget / Des Sarcelles','6DC8BF'
 3,'3','Gare Dorion / Valois / Tonnancour','1E398D'
 4,'4','Gare Vaudreuil / Ouimet / Floralies','F15A29'
+5,'5','Gare Vaudreuil - Gare Dorion','EC008C'
 6,'6','Gare Vaudreuil / CSSS / Du Ruisselet / Émile-Bouchard','8DC63F'
 7,'7','Gare Vaudreuil / John Abbott / Pointe-Claire','00ADDC'
 8,'8','Gare Dorion / Chicoine / St-Antoine','878A72'
@@ -23,5 +24,3 @@
 91,'91','Liaison Des Gares / Cégep Gérald-Godin / Pointe-Claire','007D68'
 115,'115','Gare Vaudreuil / Gare Dorion / Harwood / Valois / P-G-L / De La Gare','3B6E8F'
 335,'335','Gare Pincourt T-V / Ste-Anne-De-Bellevue','FDD504'
-1005,'5A','Gare Vaudreuil - Gare Dorion','EC008C'
-2005,'5B','Gare Dorion - Gare Vaudreuil','EC008C'

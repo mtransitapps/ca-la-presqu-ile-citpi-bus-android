@@ -6,12 +6,12 @@ Schedule. News.
 ----------
 What's new in this version?:
 Schedule from June 4, 2018 to August 19, 2018.
-Tweets from @RTMLaPresquile.
+Tweets from @exo_LaPresquile.
 ----------
 Full description:
 This application adds RTM (CIT) La Presqu'Île buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @RTMLaPresquile on Twitter.
+This app contains the buses schedule and the latest news from @exo_LaPresquile on Twitter.
 
 RTM (CIT) La Presqu'Île serves Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot and Notre-Dame-de-l-Île-Perrot.
 

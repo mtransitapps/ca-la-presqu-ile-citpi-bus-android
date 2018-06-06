@@ -6,12 +6,12 @@ Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 4 juin 2018 au 19 août 2018.
-Tweets de @RTMLaPresquile.
+Tweets de @exo_LaPresquile.
 ----------
 Full description:
 Cette application ajoute les informations des autobus RTM (CIT) La Presqu'Île à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @RTMLaPresquile sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @exo_LaPresquile sur Twitter.
 
 RTM (CIT) La Presqu'Île dessert Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot et Notre-Dame-de-l-Île-Perrot.
 

@@ -1,19 +1,20 @@
-Title: Bus RTM (CIT) La Presqu'Île - MonTransit
+Title: Bus exo La Presqu'Île - MonTransit
 ----------
 Short description:
-Autobus RTM (CIT) La Presqu'Île pour MonTransit.
+Autobus exo La Presqu'Île pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Horaires du 4 juin 2018 au 19 août 2018.
 Tweets de @exo_LaPresquile.
 ----------
 Full description:
-Cette application ajoute les informations des autobus RTM (CIT) La Presqu'Île à MonTransit.
+Cette application ajoute les informations des autobus exo La Presqu'Île à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de @exo_LaPresquile sur Twitter.
 
-RTM (CIT) La Presqu'Île dessert Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot et Notre-Dame-de-l-Île-Perrot.
+exo La Presqu'Île dessert Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot et Notre-Dame-de-l-Île-Perrot.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -21,13 +22,16 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de transport métropolitain (AMT).
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
 https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android
 
-Cette application n'est pas associée au Réseau de transport métropolitain (AMT) et RTM (CIT) La Presqu'Île.
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo La Presqu'Île.
+
+exo La Presqu'Île était précédemment connu sous le nom de RTM Secteur La Presqu'Île et CIT La Presqu'Île.
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
 - Autres: requis pour lire les nouvelles (Twitter)

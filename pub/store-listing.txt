@@ -30,8 +30,8 @@ https://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo La Presqu'Île.
 
-exo La Presqu'Île was formely know as RTM La Presqu'Île sector and CIT La Presqu'Île.
-exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+exo La Presqu'Île was formerly known as RTM La Presqu'Île sector and CIT La Presqu'Île.
+exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
 - Other: required to read news (Twitter)

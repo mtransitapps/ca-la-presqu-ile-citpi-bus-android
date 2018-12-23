@@ -13,7 +13,7 @@
 72012,'72012','Cameron / Wellesley',45.450956,-74.149604
 72013,'72013','Cameron / Fairhaven',45.445023,-74.148219
 72014,'72014','Côte St-Charles / Windcrest',45.451043,-74.163533
-72015,'72015','Côte St-Charles / École Secondaire Westwood',45.461964,-74.153007
+72015,'72015','Côte St-Charles / Face À L''École Secondaire Westwood',45.461964,-74.153007
 72016,'72016','Côte St-Charles / Forestview',45.453981,-74.160783
 72017,'72017','Côte St-Charles / Hillside',45.456495,-74.158294
 72018,'72018','Côte St-Charles / Ridge',45.459593,-74.155338
@@ -22,9 +22,9 @@
 72021,'72021','Provence / Raimbeau',45.37976,-73.946097
 72022,'72022','Montée Sagala / Henriette',45.399328,-73.951855
 72023,'72023','Montée Sagala / Henriette',45.399477,-73.951865
-72024,'72024','Grand / 4e Rue',45.391829,-73.960966
-72025,'72025','4e Rue / Grand',45.391899,-73.96084
-72026,'72026','Grand / 4e Rue',45.392013,-73.960935
+72024,'72024','Grand Boulevard / 4e Rue',45.391829,-73.960966
+72025,'72025','4e Rue / Grand Boulevard',45.391899,-73.96084
+72026,'72026','Grand Boulevard / 4e Rue',45.392013,-73.960935
 72027,'72027','4e Rue / 7e Av.',45.391251,-73.959537
 72028,'72028','4e Rue / 7e Av.',45.391273,-73.959755
 72029,'72029','Boischâtel / Provence',45.384639,-73.943819
@@ -34,14 +34,14 @@
 72033,'72033','Boischâtel / Bouleaux',45.385584,-73.946218
 72034,'72034','Boischâtel / Bouleaux',45.385563,-73.946421
 72035,'72035','Don-Quichotte / 24e Av.',45.382708,-73.951802
-72036,'72036','Don-Quichotte / Lilo',45.388096,-73.961544
-72037,'72037','Grand / Don-Quichotte',45.388287,-73.965066
-72038,'72038','Don-Quichotte / Grand',45.38911,-73.963357
-72039,'72039','Don-Quichotte / Grand',45.38927,-73.964375
+72036,'72036','Don-Quichotte / Devant LILO',45.388096,-73.961544
+72037,'72037','Grand Boulevard / Don-Quichotte',45.388287,-73.965066
+72038,'72038','Don-Quichotte / Grand Boulevard',45.38911,-73.963357
+72039,'72039','Don-Quichotte / Grand Boulevard',45.38927,-73.964375
 72040,'72040','Gare Île-Perrot',45.395972,-73.963554
 72041,'72041','Gare Île-Perrot',45.396104,-73.963702
-72042,'72042','Grand / Jean Coutu',45.38976,-73.963292
-72043,'72043','Grand / Jean Coutu',45.389875,-73.963426
+72042,'72042','Grand Boulevard / Devant Jean Coutu',45.38976,-73.963292
+72043,'72043','Grand Boulevard / Jean Coutu',45.389875,-73.963426
 72044,'72044','Provence / Marseille',45.381996,-73.944903
 72045,'72045','Provence / Marseille',45.382188,-73.944917
 72046,'72046','Érables / Giffard',45.388223,-73.944276
@@ -64,14 +64,14 @@
 72063,'72063','Perrot / 10e Av.',45.393406,-73.954426
 72064,'72064','Perrot / 7e Av.',45.394198,-73.956245
 72065,'72065','Perrot / 7e Av.',45.394165,-73.956507
-72066,'72066','Grand / St-Pierre',45.393165,-73.95946
-72067,'72067','Grand / St-Pierre',45.393342,-73.959437
-72068,'72068','Don-Quichotte / CIBC',45.38987,-73.964684
-72069,'72069','Don-Quichotte / Ford',45.390439,-73.966032
-72070,'72070','Grand / 4e Av.',45.396158,-73.957789
-72071,'72071','Grand / 4e Av.',45.396261,-73.958048
-72072,'72072','5e Av. / Grand',45.395574,-73.957388
-72073,'72073','5e Av. / Grand',45.395531,-73.957619
+72066,'72066','Grand Boulevard / St-Pierre',45.393165,-73.95946
+72067,'72067','Grand Boulevard / St-Pierre',45.393342,-73.959437
+72068,'72068','Don-Quichotte / Devant La CIBC',45.38987,-73.964684
+72069,'72069','Don-Quichotte / Devant Le Ford',45.390439,-73.966032
+72070,'72070','Grand Boulevard / 4e Av.',45.396158,-73.957789
+72071,'72071','Grand Boulevard / 4e Av.',45.396261,-73.958048
+72072,'72072','5e Av. / Grand Boulevard',45.395574,-73.957388
+72073,'72073','5e Av. / Grand Boulevard',45.395531,-73.957619
 72074,'72074','Aurélien-Séguin / 8e Av.',45.396078,-73.953158
 72075,'72075','8e Av. / Aurélien-Séguin',45.396175,-73.953292
 72076,'72076','10e Av. / Aurélien-Séguin',45.395373,-73.952102
@@ -95,15 +95,15 @@
 72094,'72094','Don Quichotte / Caisse Desjardins',45.388323,-73.962643
 72095,'72095','Don-Quichotte / Rosiers',45.380524,-73.948004
 72096,'72096','Don-Quichotte / Rosiers',45.38064,-73.948559
-72097,'72097','Grand / René-Émard',45.387357,-73.968868
-72098,'72098','René-Émard / Grand',45.387342,-73.968593
+72097,'72097','Grand Boulevard / René-Émard',45.387357,-73.968868
+72098,'72098','René-Émard / Grand Boulevard',45.387342,-73.968593
 72099,'72099','René-Émard / Lucien-Manning',45.385806,-73.964492
 72100,'72100','Lucien-Manning / René-Émard',45.385899,-73.964594
-72101,'72101','Grand / Lucien-Manning',45.387597,-73.967885
-72102,'72102','Lucien-Manning / Grand',45.387605,-73.967542
-72103,'72103','Grand / Lucien-Manning',45.387745,-73.967667
-72104,'72104','Grand / Lucien-Manning',45.387584,-73.96789
-72105,'72105','Lucien-Manning / Grand',45.387502,-73.967653
+72101,'72101','Grand Boulevard / Lucien-Manning',45.387597,-73.967885
+72102,'72102','Lucien-Manning / Grand Boulevard',45.387605,-73.967542
+72103,'72103','Grand Boulevard / Lucien-Manning',45.387745,-73.967667
+72104,'72104','Grand Boulevard / Lucien-Manning',45.387584,-73.96789
+72105,'72105','Lucien-Manning / Grand Boulevard',45.387502,-73.967653
 72106,'72106','25e Av. / Boischâtel',45.386133,-73.949106
 72107,'72107','Boischâtel / 25e Av.',45.386246,-73.949007
 72108,'72108','25e Av. / Ormes',45.384174,-73.950056
@@ -119,8 +119,8 @@
 72118,'72118','7e Av. / 8e Av.',45.398687,-73.951484
 72119,'72119','5e Av. / Montée Sagala',45.399299,-73.953146
 72120,'72120','Montée Sagala / 5e Av.',45.399376,-73.952982
-72121,'72121','Grand / 1re Av.',45.397799,-73.959275
-72122,'72122','1re Av. / Grand',45.39765,-73.959595
+72121,'72121','Grand Boulevard / 1re Av.',45.397799,-73.959275
+72122,'72122','1re Av. / Grand Boulevard',45.39765,-73.959595
 72123,'72123','5e Av. / 97',45.397297,-73.955442
 72124,'72124','5e Av. / 97',45.397426,-73.955495
 72125,'72125','Domaine / Trenet',45.391419,-73.8984
@@ -159,8 +159,8 @@
 72158,'72158','Forest / Pinacle',45.381084,-73.957147
 72159,'72159','Perrier / Pascal',45.383627,-73.928102
 72160,'72160','Perrier / Pascal',45.383797,-73.928134
-72161,'72161','Antoine-Henault / Huot',45.381446,-73.953893
-72162,'72162','Antoine-Henault / Huot',45.38161,-73.953854
+72161,'72161','Forest / Huot',45.381446,-73.953893
+72162,'72162','Forest / Huot',45.38161,-73.953854
 72163,'72163','Rivelaine / Perrot',45.389846,-73.930546
 72164,'72164','Perrot / Rivelaine',45.389957,-73.93039
 72165,'72165','Perrot / Rivelaine',45.389922,-73.930747
@@ -215,7 +215,7 @@
 72214,'72214','Virginie-Roy / Rémillard',45.385561,-73.937677
 72215,'72215','Virginie-Roy / Rhéaume',45.386459,-73.940523
 72216,'72216','Virginie-Roy / Rhéaume',45.386319,-73.940875
-72217,'72217','Don-Quichotte / Antoine-Hénault',45.382989,-73.952973
+72217,'72217','Don-Quichotte / Forest',45.382989,-73.952973
 72218,'72218','Perrot / Robillard',45.391156,-73.937054
 72219,'72219','Perrot / 40e Av.',45.390303,-73.934441
 72220,'72220','Perrot / Renaud',45.390369,-73.935222
@@ -377,7 +377,7 @@
 72376,'72376','Forest / Pincourt',45.381089,-73.965468
 72377,'72377','Forest / Racine',45.378364,-73.973433
 72378,'72378','Forest / Racine',45.378243,-73.973657
-72379,'72379','Forest / 550',45.381633,-73.961458
+72379,'72379','Forest / Devant Le 550',45.381633,-73.961458
 72380,'72380','Forest / Cime',45.381565,-73.961496
 72381,'72381','Forest / Falaise',45.37934,-73.969961
 72382,'72382','Forest / Falaise',45.378862,-73.970524
@@ -415,8 +415,6 @@
 72414,'72414','St-Jean-Baptiste / Dairy Queen',45.479406,-74.289881
 72415,'72415','St-Viateur / Boisé Des Fransiscaines',45.476685,-74.300283
 72416,'72416','St-Viateur / Boisé Des Fransiscaines',45.476687,-74.300107
-72417,'72417','Coopérative / Croissant Du Suroît',45.480931,-74.292111
-72418,'72418','Coopérative / Croissant Du Suroît',45.480897,-74.292596
 72419,'72419','Coopérative / Hyacinthe-Leduc',45.482697,-74.297066
 72420,'72420','Coopérative / Hyacinthe-Leduc',45.482444,-74.297536
 72421,'72421','St-Antoine / Coopérative',45.482361,-74.301342
@@ -446,10 +444,10 @@
 72445,'72445','Coopérative / St-Jean-Baptiste',45.479599,-74.291956
 72446,'72446','Coopérative / St-Jean-Baptiste',45.479608,-74.292306
 72447,'72447','Ste-Anne / Lalonde',45.403054,-73.949646
-72448,'72448','Terminus Mcdonald (Taxis)',45.403548,-73.941309
-72449,'72449','Terminus Mcdonald',45.403568,-73.941343
+72448,'72448','Terminus Macdonald (Taxis)',45.403548,-73.941309
+72449,'72449','Terminus Macdonald',45.403568,-73.941343
 72450,'72450','St-Pierre / Passage Piétonnier',45.40579,-73.950817
-72451,'72451','Collège / St-Pierre',45.406365,-73.951067
+72451,'72451','Christie / St-Pierre',45.406365,-73.951067
 72452,'72452','Poultry Cottages / Ferme Macdonald',45.413955,-73.939836
 72453,'72453','John Abbott College',45.406939,-73.940924
 72454,'72454','Poultry Cottages / Ferme Macdonald',45.413696,-73.939451
@@ -522,7 +520,7 @@
 72521,'72521','Ste-Angélique / Grand-Pré',45.390529,-74.117091
 72522,'72522','Ste-Angélique / Aberdeen',45.390554,-74.117349
 72523,'72523','Frontenac / Ste-Angélique',45.383054,-74.109275
-72524,'72524','Frontenac / Ste-Angélique',45.38296,-74.109542
+72524,'72524','Ste-Angélique / Libellules',45.38296,-74.109542
 72525,'72525','Montcalm / Frontenac',45.384028,-74.106779
 72526,'72526','Frontenac / Montcalm',45.383968,-74.107071
 72527,'72527','Radisson / Montcalm',45.38335,-74.1061
@@ -594,7 +592,7 @@
 72593,'72593','Route Harwood / Seigneurie',45.434736,-74.122668
 72594,'72594','Route Harwood / Boisé',45.434243,-74.121546
 72595,'72595','Route Harwood / Dooley',45.443131,-74.145357
-72596,'72596','Jean-Jacques-Bertrand / Alexandre-Taschereau',45.413701,-74.064874
+72596,'72596','Jean-Jacques-Bertrand / A. Taschereau',45.413701,-74.064874
 72597,'72597','Bourget / Gouverneur',45.405515,-74.028836
 72598,'72598','Bourget / Gouverneur',45.405815,-74.028697
 72599,'72599','Gouverneur / Bourget',45.405744,-74.028834
@@ -622,7 +620,7 @@
 72621,'72621','Gare / Édouard-Lalonde',45.395401,-74.054398
 72622,'72622','Édouard-Lalonde / Gare',45.396148,-74.053478
 72623,'72623','Gare / Édouard-Lalonde',45.396669,-74.054595
-72624,'72624','Edouard-Lalonde- Boul. De La Gare',45.39597,-74.053496
+72624,'72624','Edouard-Lalonde / Gare',45.39597,-74.053496
 72625,'72625','Adélard-Godbout / Lomer-Gouin',45.41392,-74.062592
 72626,'72626','Adélard-Godbout / Paul-Sauvé',45.413781,-74.062677
 72627,'72627','Lafleur / Patriotes',45.40536,-74.025383
@@ -710,7 +708,7 @@
 72709,'72709','Marie-Curie / F.X. Tessier',45.411177,-74.054784
 72710,'72710','Marie-Curie / F.X. Tessier',45.411219,-74.054679
 72711,'72711','Gare / Méga Centre',45.405211,-74.042338
-72712,'72712','Gare / Méga Centre',45.405517,-74.042451
+72712,'72712','Gare / Devant Le Méga Centre',45.405517,-74.042451
 72713,'72713','Bourget / Lafleur',45.406372,-74.028065
 72714,'72714','Lafleur / Bourget',45.406456,-74.027965
 72715,'72715','Archambault / 3e Passage Piétonnier',45.3826,-74.027183
@@ -737,11 +735,10 @@
 72736,'72736','2e Av. / Curé-David',45.383361,-74.022754
 72737,'72737','Harwood / Lotbinière',45.381231,-74.015176
 72738,'72738','Harwood / Lotbinière',45.382529,-74.013363
-72739,'72739','Cité-Des-Jeunes / Cage Aux Sports',45.406841,-74.036358
+72739,'72739','Cité-Des-Jeunes / Face À La Cage Aux Sports',45.406841,-74.036358
 72740,'72740','St-Charles / Brodeur',45.3876,-74.013287
 72741,'72741','Brodeur / St-Charles',45.387731,-74.013374
 72742,'72742','St-Charles / Brodeur',45.387674,-74.013544
-72743,'72743','Brodeur / St-Charles',45.387682,-74.013206
 72744,'72744','Valois / André-Chartrand',45.376482,-74.033103
 72745,'72745','Valois / André-Chartrand',45.376699,-74.032966
 72746,'72746','André-Chartrand / Valois',45.376665,-74.033199
@@ -814,8 +811,8 @@
 72813,'72813','Route Harwood / Val-Des-Pins',45.45083,-74.185557
 72814,'72814','Route Harwood / Cambridge',45.450859,-74.184913
 72815,'72815','Route Harwood / Dunes',45.456516,-74.201477
-72816,'72816','Route Harwood / Pétro-Canada',45.430194,-74.11121
-72817,'72817','Route Harwood / Centre D''achat Hudson',45.427616,-74.109337
+72816,'72816','Route Harwood / Devant Le Pétro-Canada',45.430194,-74.11121
+72817,'72817','Route Harwood / Devant Le Centre D''achat Hudson',45.427616,-74.109337
 72818,'72818','St-Charles / Adam',45.416862,-74.049953
 72819,'72819','St-Charles / Adam',45.416719,-74.049957
 72820,'72820','Dutrisac / Passage Piétonnier',45.40509,-74.034923
@@ -834,15 +831,14 @@
 72833,'72833','Charbonneau / Valois',45.38556,-74.011368
 72834,'72834','Monette / Desmarchais',45.37581,-74.036501
 72835,'72835','Desmarchais / Tonnancour',45.37477,-74.038889
-72836,'72836','Desmarchais / Chopin',45.379035,-74.036156
 72837,'72837','Chopin / André-Chartrand',45.379414,-74.035432
 72838,'72838','André-Chartrand / Moulin',45.377752,-74.034135
 72839,'72839','Jeannotte / Bourget',45.396985,-74.03066
 72840,'72840','Jeannotte / Bourget',45.396957,-74.031038
 72841,'72841','Route Harwood / Saules',45.433572,-74.118867
 72842,'72842','Route Harwood / Saules',45.433363,-74.118706
-72843,'72843','Gare / Métro',45.393205,-74.054897
-72844,'72844','Gare / A&W',45.390806,-74.05482
+72843,'72843','Gare / Devant Le Métro',45.393205,-74.054897
+72844,'72844','Gare / Devant Le A&W',45.390806,-74.05482
 72845,'72845','Jacques-Plante / Maurice Richard',45.390835,-74.048799
 72846,'72846','Jacques Plante - Maurice Richard',45.391069,-74.048713
 72847,'72847','Jacques-Plante / Toe-Blake',45.391321,-74.048062
@@ -897,7 +893,7 @@
 72896,'72896','Ouimet / Pinault',45.399682,-74.044704
 72897,'72897','Valois / Loyola-Schmidt',45.373349,-74.039649
 72898,'72898','Valois / Loyola-Schmidt',45.373596,-74.039456
-72899,'72899','Harwood / Caisse Desjardins',45.382874,-74.011792
+72899,'72899','Harwood / Devant La Caisse Desjardins',45.382874,-74.011792
 72900,'72900','Gare Vaudreuil',45.399935,-74.051424
 72901,'72901','F.X. Tessier / Fastco',45.409483,-74.062001
 72902,'72902','F.X. Tessier / Fastco',45.409359,-74.062259
@@ -907,12 +903,12 @@
 72906,'72906','St-Charles / Ste-Angélique',45.399995,-74.027187
 72907,'72907','St-Charles / Ste-Angélique',45.399992,-74.027196
 72908,'72908','St-Charles / Ste-Angélique',45.399792,-74.027349
-72909,'72909','Dutrisac / IGA',45.406245,-74.032521
-72910,'72910','Dutrisac / IGA',45.406362,-74.03255
+72909,'72909','Dutrisac / Derrière IGA',45.406245,-74.032521
+72910,'72910','Dutrisac / Derrière IGA',45.406362,-74.03255
 72911,'72911','Boileau / Forbes',45.400309,-74.04729
 72912,'72912','Forbes / Boileau',45.400377,-74.047098
 72913,'72913','Boileau / Forbes',45.400498,-74.047095
-72914,'72914','Cité-Des-Jeunes / Équipeur',45.406157,-74.037366
+72914,'72914','Cité-Des-Jeunes / Devant L''Équipeur',45.406157,-74.037366
 72915,'72915','F.X. Tessier / 3801',45.410418,-74.056276
 72916,'72916','F.X. Tessier / 3801',45.410567,-74.056407
 72917,'72917','Fabrique / École Du Papillon-Bleu',45.383959,-74.01226
@@ -957,7 +953,12 @@
 72956,'72956','25e Av. / Boischatel',45.386297,-73.949179
 72957,'72957','25e Av. / Érables',45.389594,-73.947469
 72958,'72958','Virginie-Roy / Perrier',45.384374,-73.927896
-72959,'72959','St-Joseph / Virginie-Roy',45.384014,-73.924804
+72960,'72960','Gare (Devant Onze De La Gare)',45.403405,-74.046511
+72961,'72961','Gare (Face Au Onze De La Gare)',45.403856,-74.046632
+72966,'72966','Émile-Bouchard / Phil-Goyette',45.394639,-74.051186
+72967,'72967','Émile-Bouchard / Phil-Goyette',45.394628,-74.051729
+72968,'72968','St-Charles / Joseph-Carrier',45.411676,-74.039125
+72969,'72969','Virginie-Roy / St-Joseph',45.383685,-73.925291
 101001,'DDO1A','St-Jean / Roger-Pilon',45.480147,-73.841629
 103001,'DDO1C','St-Jean / Shakespeare',45.480188,-73.842208
 902012,'SGV12B','Gouin Ouest / Cégep Gérald-Godin',45.48347,-73.868669

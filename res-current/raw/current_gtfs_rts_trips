@@ -16,6 +16,8 @@
 801,0,'PM',8
 900,0,'Gare Vaudreuil',9
 901,0,'Marier',9
+1000,0,'Pte-Claire',10
+1001,0,'Vaudreuil',10
 1501,0,'Dorion',15
 1500,0,'Vaudreuil',15
 2100,0,'Vaudreuil',21
@@ -45,6 +47,8 @@
 5101,0,'PM',51
 6100,0,'AM',61
 6101,0,'PM',61
+9100,0,'AM',91
+9101,0,'PM',91
 11501,0,'Gare Dorion',115
 11500,0,'Gare Vaudreuil',115
 33501,0,'Gare Dorion',335

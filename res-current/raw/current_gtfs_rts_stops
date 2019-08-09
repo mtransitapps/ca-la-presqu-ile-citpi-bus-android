@@ -794,11 +794,13 @@
 72796,'72796','Dumberry / Berges',45.41537,-74.039163
 72797,'72797','Dumberry / Beaujolais',45.416651,-74.019584
 72798,'72798','Dumberry / Beaujolais',45.416513,-74.019926
+72799,'72799','Dumberry / Chenaux',45.418444,-74.016547
 72800,'72800','Boily / Larivée',45.415651,-74.055614
 72801,'72801','Larivée / Boily',45.415738,-74.055738
 72802,'72802','Sortie 36 / Dumberry',45.417129,-74.017009
 72803,'72803','Chemin Dumberry / 21919',45.41599,-74.023382
 72804,'72804','Chemin Dumberry / 21919',45.416264,-74.023499
+72805,'72805','Cité-Des-Jeunes / Accès A-40 Est',45.416064,-74.016062
 72806,'72806','Route Harwood / Sources',45.457757,-74.206073
 72807,'72807','Route Harwood / Sources',45.457654,-74.206483
 72808,'72808','Route Harwood / Séguin',45.45657,-74.202009
@@ -961,7 +963,11 @@
 72971,'72971','Route Harwood / Meunier',45.37129,-74.036099
 72972,'72972','Route Harwood / Meunier',45.373012,-74.032444
 72973,'72973','Route Harwood / Harwood',45.373202,-74.032319
-72974,'72974','Cité-Des-Jeunes (Accès A-20 Est) Arrêt Temporaire',45.415979,-74.016865
+72974,'72974','Cité-Des-Jeunes (Accès A-40 Est) Arrêt Temporaire',45.415979,-74.016865
 72975,'72975','Gare Vaudreuil Terminus Temporaire Été 2019',45.397719,-74.050586
 72976,'72976','Dumberry / Sortie 36 - Navette Dumberry',45.417001,-74.017129
 72977,'72977','Cameron / Cavagnal',45.448425,-74.147586
+101001,'DDO1A','St-Jean / Roger-Pilon',45.480147,-73.841629
+103001,'DDO1C','St-Jean / Shakespeare',45.480188,-73.842208
+902012,'SGV12B','Gouin Ouest / Cégep Gérald-Godin',45.48347,-73.868669
+904012,'SGV12D','Gouin Ouest / Cégep Gérald-Godin',45.48346,-73.868628

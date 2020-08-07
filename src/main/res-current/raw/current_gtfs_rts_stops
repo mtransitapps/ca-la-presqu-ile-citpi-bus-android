@@ -286,7 +286,7 @@
 72340,'72340','Cardinal-Léger / 8e Av.',45.379427,-73.990568
 72341,'72341','Cardinal-Léger / 5e Av.',45.381872,-73.991663
 72342,'72342','Cardinal-Léger / 5e Av.',45.381805,-73.991869
-72343,'72343','Gare Pincourt',45.387962,-73.991601
+72343,'72343','Gare Pincourt / Terrasse-Vaudreuil',45.387962,-73.991601
 72344,'72344','Traversier / Cardinal-Léger',45.38548,-73.992596
 72345,'72345','Traversier / Cardinal-Léger',45.385277,-73.992551
 72346,'72346','Régent / Marcotte',45.372822,-73.980873
@@ -296,7 +296,7 @@
 72350,'72350','Cardinal-Léger / Devant Le #106 (Tabagie Pincourt)',45.382983,-73.992195
 72351,'72351','Cardinal-Léger / Devant Le Pharmaprix',45.384687,-73.99324
 72352,'72352','Cardinal-Léger / Frênes',45.362879,-73.984184
-72353,'72353','Frênes / Cardinal-Léger',45.363086,-73.984081
+72353,'72353','Frênes / Cardinal-Léger',45.363117,-73.984395
 72354,'72354','44e Av. / Duhamel',45.356677,-73.976072
 72355,'72355','44e Av. / Duhamel',45.356668,-73.976168
 72356,'72356','44e Av. / 3e Av.',45.359926,-73.977394
@@ -389,7 +389,7 @@
 72445,'72445','Coopérative / St-Jean-Baptiste Est',45.479599,-74.291956
 72446,'72446','Coopérative / St-Jean-Baptiste Est',45.479608,-74.292306
 72447,'72447','Ste-Anne / Lalonde',45.403054,-73.949646
-72448,'72448','Terminus Macdonald (Taxis)',45.403548,-73.941309
+72448,'72448','Terminus Macdonald',45.403548,-73.941309
 72449,'72449','Terminus Macdonald',45.403568,-73.941343
 72450,'72450','St-Pierre / Passage Piétonnier',45.40579,-73.950817
 72451,'72451','Collège / St-Pierre',45.406365,-73.951067
@@ -762,7 +762,7 @@
 72832,'72832','Charbonneau / Valois',45.38556,-74.011371
 72833,'72833','Charbonneau / Valois',45.38556,-74.011368
 72834,'72834','Monette / Desmarchais',45.37581,-74.036501
-72835,'72835','Desmarchais / Tonnancour',45.37477,-74.038889
+72835,'72835','Tonnancour / Desmarchais',45.374851,-74.038892
 72837,'72837','Chopin / André-Chartrand',45.379414,-74.035432
 72838,'72838','André-Chartrand / Moulin',45.377752,-74.034135
 72839,'72839','Jeannotte / Bourget',45.396985,-74.03066

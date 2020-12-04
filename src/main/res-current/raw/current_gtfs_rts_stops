@@ -38,8 +38,8 @@
 72037,'72037','Grand Boulevard / Don-Quichotte',45.388287,-73.965066
 72038,'72038','Don-Quichotte / Grand Boulevard',45.38911,-73.963357
 72039,'72039','Don-Quichotte / Grand Boulevard',45.38927,-73.964375
-72040,'72040','Gare Île-Perrot',45.395972,-73.963554
-72041,'72041','Gare Île-Perrot',45.396104,-73.963702
+72040,'72040','Gare Île-Perrot Quai 4',45.395972,-73.963554
+72041,'72041','Gare Île-Perrot Quai 3',45.396104,-73.963702
 72042,'72042','Grand Boulevard / Devant Le #405',45.38976,-73.963292
 72043,'72043','Grand Boulevard / Devant Le #400',45.389875,-73.963426
 72044,'72044','Provence / Marseille',45.381996,-73.944903
@@ -166,7 +166,7 @@
 72165,'72165','Perrot / Rivelaine',45.389922,-73.930747
 72166,'72166','Rivelaine / Roseaux',45.388158,-73.931383
 72167,'72167','Rivelaine / Roseaux',45.388309,-73.931385
-72168,'72168','Rhapsodie / Lucille-Teasdale',45.386994,-73.933272
+72168,'72168','Rivelaine / Lucille-Teasdale',45.386994,-73.933272
 72169,'72169','Rivelaine / Reine-Des-Prés',45.387147,-73.933173
 72170,'72170','Rivelaine / Rhapsodie',45.385573,-73.93442
 72171,'72171','Rivelaine / Rhapsodie',45.385746,-73.934458
@@ -278,8 +278,8 @@
 72277,'72277','Perrot / 38e Av.',45.39112,-73.936712
 72278,'72278','Perrot / St-Joseph',45.356172,-73.918606
 72279,'72279','St-Joseph / Perrot',45.356326,-73.918656
-72280,'72280','Brunswick / Auto Plaza',45.466676,-73.833175
-72281,'72281','Brunswick / Auto Plaza',45.466567,-73.833016
+72280,'72280','Auto-Plaza / Brunswick (Centre Fairview)',45.466676,-73.833175
+72281,'72281','Auto-Plaza / Brunswick (Centre Fairview)',45.466567,-73.833016
 72282,'72282','23e Av. / Olympique',45.363394,-73.988085
 72283,'72283','Olympique / 23e Av.',45.36334,-73.988217
 72284,'72284','Île / Suroît',45.367312,-73.982779
@@ -781,7 +781,7 @@
 72792,'72792','Lorne-Worsley / Devant Le #242',45.393613,-74.041754
 72793,'72793','Lorne-Worsley / Devant Le #245',45.3935,-74.04184
 72794,'72794','Floralies / Jonquilles',45.386581,-74.030932
-72795,'72795','Dumberry / Berges',45.415434,-74.039234
+72795,'72795','Dumberry / Berges',45.41509,-74.040036
 72796,'72796','Dumberry / Berges',45.41537,-74.039163
 72797,'72797','Dumberry / Beaujolais',45.416651,-74.019584
 72798,'72798','Dumberry / Beaujolais',45.416513,-74.019926

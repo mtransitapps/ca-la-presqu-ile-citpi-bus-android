@@ -11,16 +11,16 @@
 600,0,'Ruisselet - Émile-Bouchard AM',6
 601,0,'Ruisselet - Émile-Bouchard PM',6
 700,0,'John-Abbott',7
-701,0,'Terminus Vaudreuil',7
+701,0,'Term Vaudreuil',7
 800,0,'Chicoine - St-Antoine AM',8
 801,0,'Chicoine - St-Antoine PM',8
 900,0,'Gare Vaudreuil',9
 901,0,'Marier',9
 1000,0,'Pte-Claire',10
-1001,0,'Terminus Vaudreuil',10
+1001,0,'Term Vaudreuil',10
 1501,0,'Gare Dorion',15
-1500,0,'Terminus Vaudreuil',15
-2100,0,'Terminus Vaudreuil',21
+1500,0,'Term Vaudreuil',15
+2100,0,'Term Vaudreuil',21
 3100,0,'Cardinal-Léger AM',31
 3101,0,'Cardinal-Léger PM',31
 3300,0,'Forest AM',33
@@ -28,7 +28,7 @@
 3501,0,'Pincourt - Gare Dorion',35
 3500,0,'Île-Perrot - Ste-Anne-De-Bellevue',35
 4000,0,'Métro Côte-Vertu',40
-4001,0,'Terminus Vaudreuil',40
+4001,0,'Term Vaudreuil',40
 4101,0,'Boischâtel - Perrier - F.Cuillerier AM',41
 4100,0,'Boischâtel - Perrier - F.Cuillerier PM',41
 4201,0,'Érables - Lucien-Manning AM',42
@@ -50,6 +50,6 @@
 9100,0,'Cégep Gérald-Godin - Pte-Claire',91
 9101,0,'Dorion-Île-Perrot-Pincourt-Vaudreuil',91
 11501,0,'Dorion',115
-11500,0,'Terminus Vaudreuil',115
+11500,0,'Term Vaudreuil',115
 33501,0,'Pincourt - Gare Dorion',335
 33500,0,'Île-Perrot - Ste-Anne-De-Bellevue',335

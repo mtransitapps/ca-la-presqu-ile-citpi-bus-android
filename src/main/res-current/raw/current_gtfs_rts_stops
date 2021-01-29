@@ -278,8 +278,8 @@
 72277,'72277','Perrot / 38e Av',45.39112,-73.936712
 72278,'72278','Perrot / St-Joseph',45.356172,-73.918606
 72279,'72279','St-Joseph / Perrot',45.356326,-73.918656
-72280,'72280','Auto-Plaza / Brunswick (Centre Fairview)',45.466676,-73.833175
-72281,'72281','Auto-Plaza / Brunswick (Centre Fairview)',45.466567,-73.833016
+72280,'72280','Auto-Plaza / Brunswick (Ctr Fairview)',45.466676,-73.833175
+72281,'72281','Auto-Plaza / Brunswick (Ctr Fairview)',45.466567,-73.833016
 72282,'72282','23e Av / Olympique',45.363394,-73.988085
 72283,'72283','Olympique / 23e Av',45.36334,-73.988217
 72284,'72284','Île / Suroît',45.367312,-73.982779
@@ -481,7 +481,7 @@
 72484,'72484','Bordelais / Ste-Élisabeth',45.411334,-74.154224
 72485,'72485','Bordelais / Oliviers',45.407786,-74.155001
 72486,'72486','Bordelais / Sauvignon',45.407978,-74.155109
-72487,'72487','Bordelais / Place Du Bordelais',45.405423,-74.15593
+72487,'72487','Bordelais / Pl Du Bordelais',45.405423,-74.15593
 72488,'72488','Bordelais / Muscadet',45.405479,-74.156062
 72489,'72489','Ste-Angélique / Bordelais',45.40152,-74.156154
 72490,'72490','Bordelais / Ste-Angélique',45.40138,-74.156373
@@ -803,7 +803,7 @@
 72814,'72814','Harwood / Cambridge',45.450859,-74.184913
 72815,'72815','Harwood / Dunes',45.456516,-74.201477
 72816,'72816','Harwood / Devant Le Pétro-Canada',45.430194,-74.11121
-72817,'72817','Harwood / Devant Le Centre D''Achats Hudson',45.427616,-74.109337
+72817,'72817','Harwood / Devant Le Ctr D''Achats Hudson',45.427616,-74.109337
 72818,'72818','St-Charles / Adam',45.416862,-74.049953
 72819,'72819','St-Charles / Adam',45.416719,-74.049957
 72820,'72820','Dutrisac / Au Passage Piétonnier',45.40509,-74.034923
@@ -814,7 +814,7 @@
 72825,'72825','St-Charles / Dumberry',45.414412,-74.041957
 72826,'72826','St-Charles / Dutrisac',45.405789,-74.033038
 72827,'72827','St-Charles / Dutrisac',45.405846,-74.032916
-72828,'72828','Joseph-Carrier / Devant La Place Carrier',45.411585,-74.040289
+72828,'72828','Joseph-Carrier / Devant La Pl Carrier',45.411585,-74.040289
 72829,'72829','Joseph-Carrier / Devant Le #111',45.411147,-74.040473
 72831,'72831','Valois / Tunnel Vers St-Charles',45.386141,-74.01181
 72832,'72832','Charbonneau / Valois',45.38556,-74.011371

@@ -351,7 +351,7 @@
 72350,'72350','Cardinal-Léger / Devant Le #106 (Tabagie Pincourt)',45.382983,-73.992195
 72351,'72351','Cardinal-Léger / Devant Le Pharmaprix',45.384687,-73.99324
 72352,'72352','Cardinal-Léger / Frênes',45.362879,-73.984184
-72353,'72353','Frênes / Cardinal-Léger',45.363117,-73.984395
+72353,'72353','Frênes / Cardinal-Léger',45.363131,-73.984094
 72354,'72354','44e Av / Duhamel',45.356677,-73.976072
 72355,'72355','44e Av / Duhamel',45.356668,-73.976168
 72356,'72356','44e Av / 3e Av',45.359926,-73.977394
@@ -972,3 +972,5 @@
 72996,'72996','44e Av / 2e Boul',45.357754,-73.976428
 72997,'72997','Gare Île-Perrot Q:2',45.396066,-73.963786
 72998,'72998','Gare Île-Perrot Q:1',45.39603,-73.963836
+1300001,'MITIPI01','Arrêt Temp De Mitigation Vers Pte-Claire',45.44759,-73.803408
+1300002,'MITIPI02','Arrêt Temp De Mitigation Vers Vaudreuil',45.447456,-73.80326

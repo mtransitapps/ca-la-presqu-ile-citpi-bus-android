@@ -9,16 +9,12 @@
 501,0,'Term Vaudreuil',5
 600,0,'AM',6
 601,0,'PM',6
-700,0,'Navette Dumberry',7
-701,0,'Term Vaudreuil',7
 800,0,'AM',8
 801,0,'PM',8
 900,0,'Marier',9
-1000,0,'Pte-Claire',10
-1001,0,'Term Vaudreuil',10
 1501,0,'Gare Dorion',15
 1500,0,'Term Vaudreuil',15
-2100,0,'Term Vaudreuil',21
+2100,0,'Hudson / Term Vaudreuil',21
 3100,0,'AM',31
 3101,0,'PM',31
 3300,0,'AM',33
@@ -45,13 +41,9 @@
 5101,0,'PM',51
 6100,0,'AM',61
 6101,0,'PM',61
-9100,0,'Cégep Gérald-Godin - Pte-Claire',91
-9101,0,'Dorion-Île-Perrot-Pincourt-Vaudreuil',91
 11501,0,'Dorion',115
 11500,0,'Term Vaudreuil',115
 33501,0,'Pincourt - Gare Dorion',335
 33500,0,'Île-Perrot - Ste-Anne-De-Bellevue',335
-90700,0,'Chemin Dumberry',907
-90701,0,'Gare Vaudreuil',907
 91001,0,'Gare Pte-Claire',910
 91000,0,'Pte-Claire / Auto-Plaza',910

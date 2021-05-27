@@ -4,6 +4,7 @@
 4,'4','Gare Vaudreuil / Ouimet / Floralies',''
 5,'5','Gare Vaudreuil - Gare Dorion',''
 6,'6','Gare Vaudreuil / CSSS / Du Ruisselet / Émile-Bouchard',''
+7,'7','Gare Vaudreuil / John Abbott / Pointe-Claire',''
 8,'8','Gare Dorion / Chicoine / St-Antoine',''
 9,'9','Gare Vaudreuil / Gare Dorion / Marier',''
 15,'15','Gare Vaudreuil / Gare Dorion Via Valois P-G-L',''
@@ -24,3 +25,4 @@
 115,'115','Gare Vaudreuil / Dorion (Av De La Fabrique)',''
 335,'335','Gare Pincourt T-V / Ste-Anne-De-Bellevue',''
 910,'910','Mitigation Pont Île-Aux-Tourtes / Pointe-Claire',''
+999,'999','Mitigation Coteau-Du-Lac / Gare Vaudreuil',''

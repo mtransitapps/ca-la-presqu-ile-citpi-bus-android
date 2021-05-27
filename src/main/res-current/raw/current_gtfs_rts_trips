@@ -9,12 +9,14 @@
 501,0,'Term Vaudreuil',5
 600,0,'AM',6
 601,0,'PM',6
+700,0,'Navette Dumberry',7
+701,0,'Term Vaudreuil',7
 800,0,'AM',8
 801,0,'PM',8
 900,0,'Marier',9
 1501,0,'Gare Dorion',15
 1500,0,'Term Vaudreuil',15
-2100,0,'Hudson / Term Vaudreuil',21
+2100,0,'Term Vaudreuil',21
 3100,0,'AM',31
 3101,0,'PM',31
 3300,0,'AM',33
@@ -33,7 +35,7 @@
 4400,0,'Ste-Anne-De-Bellevue',44
 4500,0,'Ste-Anne-De-Bellevue',45
 4501,0,'Virginie-Roy',45
-4600,0,'AM',46
+4600,0,'Don Quichotte - Pte-Du-Domaine',46
 4601,0,'PM',46
 4700,0,'AM',47
 4701,0,'PM',47
@@ -47,3 +49,5 @@
 33500,0,'Île-Perrot - Ste-Anne-De-Bellevue',335
 91001,0,'Gare Pte-Claire',910
 91000,0,'Pte-Claire / Auto-Plaza',910
+99901,0,'Coteau-Du-Lac',999
+99900,0,'Gare Vaudreuil',999

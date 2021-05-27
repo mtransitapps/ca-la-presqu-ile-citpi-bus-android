@@ -644,7 +644,7 @@
 72650,'72650','Valois / Monette',45.375068,-74.036047
 72651,'72651','Valois / Monette',45.375295,-74.035953
 72652,'72652','Archambault / #580',45.381261,-74.029985
-72653,'72653','Archambault / Passage Piétonnier',45.381355,-74.03009
+72653,'72653','Archambault / Passage Piétonnier',45.381342,-74.03007
 72654,'72654','Émile-Bouchard / Aurèle-Joliat',45.392882,-74.046172
 72655,'72655','Aurèle-Joliat / Émile-Bouchard',45.392984,-74.04622
 72656,'72656','Émile-Bouchard / Howie-Morenz',45.391945,-74.045669
@@ -703,7 +703,7 @@
 72712,'72712','Gare / Devant Les Av.S Vaudreuil (Zibo)',45.405517,-74.042451
 72713,'72713','Bourget / Lafleur',45.406372,-74.028065
 72714,'72714','Lafleur / Bourget',45.406456,-74.027965
-72715,'72715','Archambault / Devant Le #496',45.3826,-74.027183
+72715,'72715','Archambault / Devant Le #496',45.382605,-74.027254
 72716,'72716','Archambault / Devant Le #495',45.382755,-74.027261
 72717,'72717','Bourget / Quévillon',45.402554,-74.033401
 72718,'72718','Bourget / Quévillon',45.402713,-74.03337
@@ -724,6 +724,7 @@
 72736,'72736','2e Av / Curé-David',45.383361,-74.022754
 72737,'72737','Harwood / Lotbinière',45.381231,-74.015176
 72738,'72738','Harwood / Lotbinière',45.382529,-74.013363
+72739,'72739','Cité-Des-Jeunes / Devant La Plaza Vaudreuil',45.406841,-74.036358
 72740,'72740','St-Charles / Brodeur',45.3876,-74.013287
 72741,'72741','Brodeur / St-Charles',45.387731,-74.013374
 72742,'72742','St-Charles / Brodeur',45.387674,-74.013544
@@ -776,8 +777,14 @@
 72792,'72792','Lorne-Worsley / Devant Le #242',45.393613,-74.041754
 72793,'72793','Lorne-Worsley / Devant Le #245',45.3935,-74.04184
 72794,'72794','Floralies / Jonquilles',45.386581,-74.030932
+72795,'72795','Dumberry / Berges',45.41509,-74.040036
+72796,'72796','Dumberry / Berges',45.41537,-74.039163
+72797,'72797','Dumberry / Beaujolais',45.416651,-74.019584
+72798,'72798','Dumberry / Beaujolais',45.416513,-74.019926
 72800,'72800','Boily / Larivée',45.415651,-74.055614
 72801,'72801','Larivée / Boily',45.415738,-74.055738
+72803,'72803','Dumberry / #21919',45.41599,-74.023382
+72804,'72804','Dumberry / Devant Le #21919',45.416264,-74.023499
 72806,'72806','Harwood / Sources',45.457757,-74.206073
 72807,'72807','Harwood / Sources',45.457654,-74.206483
 72808,'72808','Harwood / Séguin',45.45657,-74.202009
@@ -802,7 +809,7 @@
 72827,'72827','St-Charles / Dutrisac',45.405846,-74.032916
 72828,'72828','Joseph-Carrier / Devant La Pl Carrier',45.411585,-74.040289
 72829,'72829','Joseph-Carrier / Devant Le #111',45.411147,-74.040473
-72831,'72831','Valois / Tunnel Vers St-Charles',45.386141,-74.01181
+72831,'72831','Valois / Tunnel Vers St-Charles',45.386078,-74.011826
 72832,'72832','Charbonneau / Valois',45.38556,-74.011371
 72833,'72833','Charbonneau / Valois',45.38556,-74.011368
 72835,'72835','Tonnancour / Desmarchais',45.374851,-74.038892
@@ -843,7 +850,7 @@
 72873,'72873','Marier / Schubert',45.381711,-74.043013
 72874,'72874','Marier / Schubert',45.381576,-74.043096
 72875,'72875','Marier / Devant Le #1041',45.382394,-74.041652
-72876,'72876','Marier / Devant Le #1040',45.38229,-74.041626
+72876,'72876','Marier / Devant Le #1040',45.38228,-74.04165
 72878,'72878','Ouimet / Briand',45.398211,-74.041397
 72879,'72879','Briand / Ouimet',45.398297,-74.041483
 72880,'72880','Ouimet / Briand',45.39823,-74.041582
@@ -934,6 +941,7 @@
 72971,'72971','Harwood / Meunier',45.37129,-74.036099
 72972,'72972','Harwood / Meunier',45.373012,-74.032444
 72973,'72973','Harwood / Harwood',45.373202,-74.032319
+72976,'72976','Dumberry / Aut 40 Ouest',45.417001,-74.017129
 72977,'72977','Cameron / Cavagnal',45.448425,-74.147586
 72978,'72978','Term Vaudreuil Q:2',45.399193,-74.050852
 72979,'72979','Term Vaudreuil Q:3',45.399364,-74.051203
@@ -944,10 +952,20 @@
 72984,'72984','Term Vaudreuil Q:8',45.399819,-74.051022
 72985,'72985','Term Vaudreuil Q:9',45.399691,-74.050763
 72986,'72986','Term Vaudreuil Q:10',45.399545,-74.050431
+72988,'72988','Term Vaudreuil Q:12',45.399895,-74.051171
 72989,'72989','Term Vaudreuil Q:13',45.400032,-74.051448
+72993,'72993','Dumberry / Besner',45.415758,-74.037677
+72994,'72994','Dumberry / Besner',45.415665,-74.037887
 72995,'72995','44e Av / 2e Boul',45.357896,-73.976632
 72996,'72996','44e Av / 2e Boul',45.357754,-73.976428
 72997,'72997','Gare Île-Perrot Q:2',45.396066,-73.963786
 72998,'72998','Gare Île-Perrot Q:1',45.39603,-73.963836
 1300001,'MITIPI01','Arrêt Temp De Mitigation Vers Pte-Claire',45.44759,-73.803408
 1300002,'MITIPI02','Arrêt Temp De Mitigation Vers Vaudreuil',45.447456,-73.80326
+1300003,'MITIPI03','Term Vaudreuil Q:1',45.399263,-74.050303
+1300004,'MITIPI04','Coteau-Du-Lac (Devant Le Desjardins)',45.295275,-74.177114
+1300005,'MITIPI05','Coteau-Du-Lac (Devant Le Pavillon Wilson)',45.292797,-74.175188
+1300006,'MITIPI06','Coteau-Du-Lac (Face À L''Église)',45.290569,-74.175524
+1300007,'MITIPI07','Coteau-Du-Lac (Face Au Desjardins)',45.294935,-74.17748
+1300008,'MITIPI08','Coteau-Du-Lac (Face Au Pavillon Wilson)',45.292512,-74.175688
+1300009,'MITIPI09','Coteau-Du-Lac (Devant L''Église)',45.290876,-74.176025

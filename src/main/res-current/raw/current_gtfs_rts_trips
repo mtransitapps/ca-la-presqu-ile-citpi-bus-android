@@ -14,6 +14,8 @@
 800,0,'AM',8
 801,0,'PM',8
 900,0,'Marier',9
+1000,0,'Pte-Claire',10
+1001,0,'Term Vaudreuil',10
 1501,0,'Gare Dorion',15
 1500,0,'Term Vaudreuil',15
 2100,0,'Term Vaudreuil',21
@@ -36,7 +38,6 @@
 4500,0,'Ste-Anne-De-Bellevue',45
 4501,0,'Virginie-Roy',45
 4600,0,'Don Quichotte - Pte-Du-Domaine',46
-4601,0,'PM',46
 4700,0,'AM',47
 4701,0,'PM',47
 5100,0,'AM',51

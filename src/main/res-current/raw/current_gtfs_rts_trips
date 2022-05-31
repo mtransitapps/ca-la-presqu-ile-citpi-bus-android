@@ -42,12 +42,12 @@
 5101,0,'PM',51
 6100,0,'AM',61
 6101,0,'PM',61
-9100,0,'Cégep Gérald-Godin - Pte-Claire',91
-9101,0,'Dorion-Île-Perrot-Pincourt-Vaudreuil',91
 11501,0,'Dorion',115
 11500,0,'Term Vaudreuil',115
 33501,0,'Pincourt - Gare Dorion',335
 33500,0,'Île-Perrot - Ste-Anne-De-Bellevue',335
+94200,0,'Gare Ste-Anne-De-Bellevue',942
+94201,0,'Gare Île-Perrot',942
 100004000,0,'Métro Côte-Vertu',1000040
 100004001,0,'Term Vaudreuil',1000040
 2000000100,0,'Gare Vaudreuil',20000001

@@ -1,6 +1,6 @@
 This application adds exo La Presqu'Île buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @exo_LaPresquile on Twitter.
+This app contains the buses schedule and the latest news from @exo_Sud on Twitter.
 
 exo La Presqu'Île serves Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot and Notre-Dame-de-l-Île-Perrot.
 

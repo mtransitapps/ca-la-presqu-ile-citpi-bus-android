@@ -1,2 +1,1 @@
-exo La Presqu'Île buses for MonTransit.
-Schedule. News.
+exo La Presqu'Île buses for MonTransit. Schedule. News.

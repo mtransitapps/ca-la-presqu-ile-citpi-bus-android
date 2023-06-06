@@ -1,0 +1,50 @@
+100,0,'AM',1
+101,0,'PM',1
+200,0,'AM',2
+201,0,'PM',2
+301,0,'AM',3
+300,0,'PM',3
+400,0,'Ouimet - Floralies',4
+500,0,'Gare Dorion',5
+501,0,'Term Vaudreuil',5
+600,0,'AM',6
+601,0,'PM',6
+700,0,'John-Abbott - Pte-Claire',7
+701,0,'Term Vaudreuil',7
+800,0,'AM',8
+801,0,'PM',8
+900,0,'Marier',9
+1000,0,'Pte-Claire',10
+1001,0,'Term Vaudreuil',10
+1501,0,'Gare Dorion',15
+1500,0,'Term Vaudreuil',15
+2100,0,'Hudson / Term Vaudreuil',21
+3100,0,'AM',31
+3101,0,'PM',31
+3300,0,'AM',33
+3301,0,'PM',33
+3501,0,'Pincourt - Gare Dorion',35
+3500,0,'Île-Perrot - Ste-Anne-De-Bellevue',35
+4101,0,'AM',41
+4100,0,'PM',41
+4201,0,'AM',42
+4200,0,'PM',42
+4301,0,'AM',43
+4300,0,'PM',43
+4401,0,'Gare Pincourt - Tsse-Vaudreuil',44
+4400,0,'Ste-Anne-De-Bellevue',44
+4500,0,'Ste-Anne-De-Bellevue',45
+4501,0,'Virginie-Roy',45
+4600,0,'Don Quichotte - Pte-Du-Domaine',46
+4700,0,'AM',47
+4701,0,'PM',47
+5100,0,'AM',51
+5101,0,'PM',51
+6100,0,'AM',61
+6101,0,'PM',61
+11501,0,'Dorion',115
+11500,0,'Term Vaudreuil',115
+33501,0,'Pincourt - Gare Dorion',335
+33500,0,'Île-Perrot - Ste-Anne-De-Bellevue',335
+100004000,0,'Métro Côte-Vertu',1000040
+100004001,0,'Term Vaudreuil',1000040

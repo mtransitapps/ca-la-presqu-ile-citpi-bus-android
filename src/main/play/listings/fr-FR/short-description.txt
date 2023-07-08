@@ -1,2 +1,1 @@
-Autobus exo La Presqu'Île pour MonTransit.
-Horaires. Nouvelles.
+Bus exo La Presqu'Île pour MonTransit. Horaires. État de service. Nouvelles.

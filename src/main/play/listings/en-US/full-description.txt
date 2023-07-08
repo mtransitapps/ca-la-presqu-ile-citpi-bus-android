@@ -1,6 +1,6 @@
 This application adds exo La Presqu'Île buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_Sud on Twitter.
+This app provides the planned schedule as well as real time service statuses and the latest news from exo.quebec, @allo_exo and @exo_Sud on Twitter.
 
 exo La Presqu'Île serves Hudson, Vaudreuil-Dorion, Pincourt, Rigaud, Saint-Lazare, L'Île-Perrot and Notre-Dame-de-l-Île-Perrot.
 
@@ -22,4 +22,4 @@ exo La Presqu'Île was formerly known as RTM La Presqu'Île sector and CIT La Pr
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required to read news (Twitter)
+- Other: required for real-time service statuses and to read news from exo.quebec and Twitter

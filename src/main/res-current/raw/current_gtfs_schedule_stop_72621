@@ -1,19 +1,27 @@
-'PI-A23-Blocks-Fête-2-01',601,160900,0,'Ruisselet - Émile-Bouchard PM',0,3200,0,'Ruisselet - Émile-Bouchard PM',0,7300,0,'Ruisselet - Émile-Bouchard PM',0,3900,0,'Ruisselet - Émile-Bouchard PM',0,6400,0,'Ruisselet - Émile-Bouchard PM',0,3300,0,'Ruisselet - Émile-Bouchard PM',0,8400,0,'Ruisselet - Émile-Bouchard PM',0
-'PI-A23-Blocks-Semaine-04',601,160900,0,'Ruisselet - Émile-Bouchard PM',0,3300,0,'Ruisselet - Émile-Bouchard PM',0,7500,0,'Ruisselet - Émile-Bouchard PM',0,3600,0,'Ruisselet - Émile-Bouchard PM',0,6400,0,'Ruisselet - Émile-Bouchard PM',0,3300,0,'Ruisselet - Émile-Bouchard PM',0,8400,0,'Ruisselet - Émile-Bouchard PM',0
-'PI-A23-Blocks-Fête-2-01',900,53400,0,'Term Vaudreuil',0,6900,,'',0,3200,,'',0,6700,,'',0,3200,,'',0,6800,,'',0,3300,,'',0,77800,,'',0,3300,,'',0,7300,,'',0,3300,,'',0,6900,,'',0,3200,,'',0,8400,,'',0
-'PI-A23-Blocks-Semaine-04',900,53300,0,'Term Vaudreuil',0,6800,,'',0,3400,,'',0,6700,,'',0,3100,,'',0,6900,,'',0,3100,,'',0,77900,,'',0,3500,,'',0,7500,,'',0,3000,,'',0,6900,,'',0,3300,,'',0,8300,,'',0
-'PI-A23-Blocks-Fête-2-01',1501,90320,,'',0,12000,,'',0,12000,,'',0,16000,,'',0,12000,,'',0,52300,,'',0,16200,,'',0,12000,,'',0,12000,,'',0
-'PI-A23-Blocks-Semaine-04',1501,90320,,'',0,12000,,'',0,12000,,'',0,16500,,'',0,12200,,'',0,51800,,'',0,16500,,'',0,12500,,'',0,16500,,'',0
-'PI-A23-Blocks-Fête-2-01',2100,63430,,'',0,10000,,'',0,10000,,'',0,79390,,'',0,10020,,'',0,8580,,'',0,9400,,'',0
-'PI-A23-Blocks-Semaine-04',2100,63430,,'',0,10300,,'',0,9700,,'',0,8370,,'',0,9110,,'',0,61910,0,'Hudson',0,9020,0,'Hudson',0,9480,0,'Hudson',0,9600,0,'Hudson',0
-'PI-A23-Blocks-Fête-2-01',5100,60210,0,'St-Lazare AM',0,3300,0,'St-Lazare AM',0,6700,0,'St-Lazare AM',0,3300,0,'St-Lazare AM',0,6700,0,'St-Lazare AM',0,3300,0,'St-Lazare AM',0,6500,0,'St-Lazare AM',0
-'PI-A23-Blocks-Fête-2-01',5101,163700,0,'St-Lazare PM',0,7200,0,'St-Lazare PM',0,3300,0,'St-Lazare PM',0,7900,0,'St-Lazare PM',0,8000,0,'St-Lazare PM',0,1700,0,'St-Lazare PM',0
-'PI-A23-Blocks-Semaine-04',5100,60010,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,6500,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,6500,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,2300,0,'St-Lazare AM',0
-'PI-A23-Blocks-Semaine-04',5101,163700,0,'St-Lazare PM',0,7300,0,'St-Lazare PM',0,3500,0,'St-Lazare PM',0,7600,0,'St-Lazare PM',0,8000,0,'St-Lazare PM',0,1900,0,'St-Lazare PM',0
-'PI-A23-Blocks-Fête-2-01',6100,61600,0,'Rigaud AM',0,11700,0,'Rigaud AM',0,12300,0,'Rigaud AM',0
-'PI-A23-Blocks-Fête-2-01',6101,154400,0,'Rigaud PM',0,10600,0,'Rigaud PM',0,10500,0,'Rigaud PM',0,17600,0,'Rigaud PM',0
-'PI-A23-Blocks-Semaine-04',6100,61600,0,'Rigaud AM',0,12000,0,'Rigaud AM',0,11000,0,'Rigaud AM',0,15500,0,'Rigaud AM',0,12000,0,'Rigaud AM',0
-'PI-A23-Blocks-Semaine-04',6101,154400,0,'Rigaud PM',0,10600,0,'Rigaud PM',0,10800,0,'Rigaud PM',0,17400,0,'Rigaud PM',0
-'PI-A23-Blocks-Dimanche-01',11501,90330,,'',0,13700,,'',0,11800,,'',0,16500,,'',0,12000,,'',0,18000,,'',0,12000,,'',0,16000,,'',0,12200,,'',0,12000,,'',0
-'PI-A23-Blocks-Fête-1-01',11501,90330,,'',0,13700,,'',0,11800,,'',0,16500,,'',0,12000,,'',0,18000,,'',0,12000,,'',0,16000,,'',0,12200,,'',0,12000,,'',0
-'PI-A23-Blocks-Samedi-01',11501,90330,,'',0,13700,,'',0,11800,,'',0,16500,,'',0,12000,,'',0,18000,,'',0,12000,,'',0,16000,,'',0,12200,,'',0,12000,,'',0
+'PI-A23-PIGTFS-Fête-2-01',601,160900,0,'Ruisselet - Émile-Bouchard PM',0,3200,0,'Ruisselet - Émile-Bouchard PM',0,7300,0,'Ruisselet - Émile-Bouchard PM',0,3900,0,'Ruisselet - Émile-Bouchard PM',0,6400,0,'Ruisselet - Émile-Bouchard PM',0,3300,0,'Ruisselet - Émile-Bouchard PM',0,8400,0,'Ruisselet - Émile-Bouchard PM',0
+'PI-A23-PIGTFS-Semaine-02',601,160900,0,'Ruisselet - Émile-Bouchard PM',0,3300,0,'Ruisselet - Émile-Bouchard PM',0,7500,0,'Ruisselet - Émile-Bouchard PM',0,3600,0,'Ruisselet - Émile-Bouchard PM',0,6400,0,'Ruisselet - Émile-Bouchard PM',0,3300,0,'Ruisselet - Émile-Bouchard PM',0,8400,0,'Ruisselet - Émile-Bouchard PM',0
+'PI-A23-PIGTFS-Semaine-03',601,160900,0,'Ruisselet - Émile-Bouchard PM',0,3300,0,'Ruisselet - Émile-Bouchard PM',0,7500,0,'Ruisselet - Émile-Bouchard PM',0,3600,0,'Ruisselet - Émile-Bouchard PM',0,6400,0,'Ruisselet - Émile-Bouchard PM',0,3300,0,'Ruisselet - Émile-Bouchard PM',0,8400,0,'Ruisselet - Émile-Bouchard PM',0
+'PI-A23-PIGTFS-Fête-2-01',900,53400,0,'Term Vaudreuil',0,6900,,'',0,3200,,'',0,6700,,'',0,3200,,'',0,6800,,'',0,3300,,'',0,77800,,'',0,3300,,'',0,7300,,'',0,3300,,'',0,6900,,'',0,3200,,'',0,8400,,'',0
+'PI-A23-PIGTFS-Semaine-02',900,53300,0,'Term Vaudreuil',0,6800,,'',0,3400,,'',0,6700,,'',0,3100,,'',0,6900,,'',0,3100,,'',0,77900,,'',0,3500,,'',0,7500,,'',0,3000,,'',0,6900,,'',0,3300,,'',0,8300,,'',0
+'PI-A23-PIGTFS-Semaine-03',900,53300,0,'Term Vaudreuil',0,6800,,'',0,3400,,'',0,6700,,'',0,3100,,'',0,6900,,'',0,3100,,'',0,77900,,'',0,3500,,'',0,7500,,'',0,3000,,'',0,6900,,'',0,3300,,'',0,8300,,'',0
+'PI-A23-PIGTFS-Fête-2-01',1501,90320,,'',0,12000,,'',0,12000,,'',0,16000,,'',0,12000,,'',0,52300,,'',0,16200,,'',0,12000,,'',0,12000,,'',0
+'PI-A23-PIGTFS-Semaine-02',1501,90320,,'',0,12000,,'',0,12000,,'',0,16500,,'',0,12200,,'',0,51800,,'',0,16500,,'',0,12500,,'',0,16500,,'',0
+'PI-A23-PIGTFS-Semaine-03',1501,90320,,'',0,12000,,'',0,12000,,'',0,16500,,'',0,12200,,'',0,51800,,'',0,16500,,'',0,12500,,'',0,16500,,'',0
+'PI-A23-PIGTFS-Fête-2-01',2100,63430,,'',0,10000,,'',0,10000,,'',0,79390,,'',0,10020,,'',0,8580,,'',0,9400,,'',0
+'PI-A23-PIGTFS-Semaine-02',2100,63430,,'',0,10300,,'',0,9700,,'',0,8370,,'',0,9110,,'',0,61910,0,'Hudson',0,9020,0,'Hudson',0,9480,0,'Hudson',0,9600,0,'Hudson',0
+'PI-A23-PIGTFS-Semaine-03',2100,63430,,'',0,10300,,'',0,9700,,'',0,8370,,'',0,9110,,'',0,61910,0,'Hudson',0,9020,0,'Hudson',0,9480,0,'Hudson',0,9600,0,'Hudson',0
+'PI-A23-PIGTFS-Fête-2-01',5100,60210,0,'St-Lazare AM',0,3300,0,'St-Lazare AM',0,6700,0,'St-Lazare AM',0,3300,0,'St-Lazare AM',0,6700,0,'St-Lazare AM',0,3300,0,'St-Lazare AM',0,6500,0,'St-Lazare AM',0
+'PI-A23-PIGTFS-Fête-2-01',5101,163700,0,'St-Lazare PM',0,7200,0,'St-Lazare PM',0,3300,0,'St-Lazare PM',0,7900,0,'St-Lazare PM',0,8000,0,'St-Lazare PM',0,1700,0,'St-Lazare PM',0
+'PI-A23-PIGTFS-Semaine-02',5100,60010,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,6500,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,6500,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,2300,0,'St-Lazare AM',0
+'PI-A23-PIGTFS-Semaine-02',5101,163700,0,'St-Lazare PM',0,7300,0,'St-Lazare PM',0,3500,0,'St-Lazare PM',0,7600,0,'St-Lazare PM',0,8000,0,'St-Lazare PM',0,1900,0,'St-Lazare PM',0
+'PI-A23-PIGTFS-Semaine-03',5100,60010,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,6500,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,6500,0,'St-Lazare AM',0,3500,0,'St-Lazare AM',0,2300,0,'St-Lazare AM',0
+'PI-A23-PIGTFS-Semaine-03',5101,163700,0,'St-Lazare PM',0,7300,0,'St-Lazare PM',0,3500,0,'St-Lazare PM',0,7600,0,'St-Lazare PM',0,8000,0,'St-Lazare PM',0,1900,0,'St-Lazare PM',0
+'PI-A23-PIGTFS-Fête-2-01',6100,61600,0,'Rigaud AM',0,11700,0,'Rigaud AM',0,12300,0,'Rigaud AM',0
+'PI-A23-PIGTFS-Fête-2-01',6101,154400,0,'Rigaud PM',0,10600,0,'Rigaud PM',0,10500,0,'Rigaud PM',0,17600,0,'Rigaud PM',0
+'PI-A23-PIGTFS-Semaine-02',6100,61600,0,'Rigaud AM',0,12000,0,'Rigaud AM',0,11000,0,'Rigaud AM',0,15500,0,'Rigaud AM',0,12000,0,'Rigaud AM',0
+'PI-A23-PIGTFS-Semaine-02',6101,154400,0,'Rigaud PM',0,10600,0,'Rigaud PM',0,10800,0,'Rigaud PM',0,17400,0,'Rigaud PM',0
+'PI-A23-PIGTFS-Semaine-03',6100,61600,0,'Rigaud AM',0,12000,0,'Rigaud AM',0,11000,0,'Rigaud AM',0,15500,0,'Rigaud AM',0,12000,0,'Rigaud AM',0
+'PI-A23-PIGTFS-Semaine-03',6101,154400,0,'Rigaud PM',0,10600,0,'Rigaud PM',0,10800,0,'Rigaud PM',0,17400,0,'Rigaud PM',0
+'PI-A23-PIGTFS-Dimanche-01',11501,90330,,'',0,13700,,'',0,11800,,'',0,16500,,'',0,12000,,'',0,18000,,'',0,12000,,'',0,16000,,'',0,12200,,'',0,12000,,'',0
+'PI-A23-PIGTFS-Fête-1-01',11501,90330,,'',0,13700,,'',0,11800,,'',0,16500,,'',0,12000,,'',0,18000,,'',0,12000,,'',0,16000,,'',0,12200,,'',0,12000,,'',0
+'PI-A23-PIGTFS-Samedi-01',11501,90330,,'',0,13700,,'',0,11800,,'',0,16500,,'',0,12000,,'',0,18000,,'',0,12000,,'',0,16000,,'',0,12200,,'',0,12000,,'',0

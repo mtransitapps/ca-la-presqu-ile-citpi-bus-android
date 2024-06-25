@@ -18,7 +18,7 @@
 1001,0,'Term Vaudreuil',10
 1501,0,'Gare Dorion',15
 1500,0,'Term Vaudreuil',15
-2100,0,'Hudson / Term Vaudreuil',21
+2100,0,'Term Vaudreuil',21
 3100,0,'AM',31
 3101,0,'PM',31
 3300,0,'AM',33
@@ -42,11 +42,11 @@
 5101,0,'PM',51
 6100,0,'AM',61
 6101,0,'PM',61
-9100,0,'Cégep Gérald-Godin - Pte-Claire',91
-9101,0,'Dorion-Île-Perrot-Pincourt-Vaudreuil',91
 11501,0,'Dorion',115
 11500,0,'Term Vaudreuil',115
 33501,0,'Pincourt - Dorion',335
 33500,0,'Île-Perrot - Ste-Anne-De-Bellevue',335
+92101,0,'Gare Hudson',921
+92100,0,'Term Vaudreuil',921
 100004000,0,'Métro Côte-Vertu',1000040
 100004001,0,'Term Vaudreuil',1000040

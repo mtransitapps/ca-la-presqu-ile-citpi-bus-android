@@ -38,6 +38,7 @@ proguard/
 /app-signing-debug-keystore.keystore
 /build.gradle
 /build.sh
+/dependencies/*
 /decrypt_file.sh
 /encrypt_file.sh
 /keys_cleanup.sh
@@ -54,6 +55,10 @@ proguard/
 /publish.sh
 /publish_*.sh
 /src/main/play/default-language.txt
+
+# Generated files
+/src/main/AndroidManifest.xml
+/src/main/play/contact-website.txt
 
 # trigger change 1
 

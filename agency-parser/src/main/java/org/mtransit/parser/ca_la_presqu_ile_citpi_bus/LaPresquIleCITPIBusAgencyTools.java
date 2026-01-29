@@ -4,6 +4,7 @@ import static org.mtransit.commons.Constants.EMPTY;
 import static org.mtransit.commons.RegexUtils.DIGITS;
 
 import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.commons.RegexUtils;
@@ -39,6 +40,16 @@ public class LaPresquIleCITPIBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
+	}
+
+	@Override
+	public @Nullable String getTripIdCleanupRegex() {
+		return "PI\\-\\w{1}\\d{2}\\-(PI_GTFS)\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^PI\\-\\w{1}\\d{2}\\-(PI_GTFS)\\-"; // remove beginning of service ID shared by all service IDs (include season letter and YY year)
 	}
 
 	@Override

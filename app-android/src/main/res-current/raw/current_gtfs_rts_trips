@@ -1,52 +1,33 @@
-100,0,'AM',1
-101,0,'PM',1
-200,0,'AM',2
-201,0,'PM',2
-301,0,'AM',3
-300,0,'PM',3
-400,0,'Ouimet - Floralies',4
-500,0,'Gare Dorion',5
-501,0,'Term Vaudreuil',5
-600,0,'AM',6
-601,0,'PM',6
-700,0,'John-Abbott - Pte-Claire',7
-701,0,'Term Vaudreuil',7
-800,0,'AM',8
-801,0,'PM',8
-900,0,'Marier',9
-1000,0,'Pte-Claire',10
-1001,0,'Term Vaudreuil',10
-1501,0,'Gare Dorion',15
-1500,0,'Term Vaudreuil',15
-2100,0,'Hudson / Term Vaudreuil',21
-3100,0,'AM',31
-3101,0,'PM',31
-3300,0,'AM',33
-3301,0,'PM',33
-3501,0,'Pincourt - Gare Dorion',35
-3500,0,'Île-Perrot - Ste-Anne-De-Bellevue',35
-4101,0,'AM',41
-4100,0,'PM',41
-4201,0,'AM',42
-4200,0,'PM',42
-4301,0,'AM',43
-4300,0,'PM',43
-4401,0,'Gare Pincourt - Tsse-Vaudreuil',44
-4400,0,'Ste-Anne-De-Bellevue',44
-4500,0,'Ste-Anne-De-Bellevue',45
-4501,0,'Virginie-Roy',45
-4600,0,'Don Quichotte - Pte-Du-Domaine',46
-4700,0,'AM',47
-4701,0,'PM',47
-5100,0,'AM',51
-5101,0,'PM',51
-6100,0,'AM',61
-6101,0,'PM',61
-9100,0,'Cégep Gérald-Godin - Pte-Claire',91
-9101,0,'Dorion-Île-Perrot-Pincourt-Vaudreuil',91
-11501,0,'Dorion',115
-11500,0,'Term Vaudreuil',115
-33501,0,'Pincourt - Dorion',335
-33500,0,'Île-Perrot - Ste-Anne-De-Bellevue',335
-100004000,0,'Métro Côte-Vertu',1000040
-100004001,0,'Term Vaudreuil',1000040
+18800,0,'Term Vaudreuil - Hudson',188
+18901,0,'AM',189
+18900,0,'PM',189
+19000,0,'St-Charles - Gare Dorion',190
+19001,0,'Term Vaudreuil',190
+19101,0,'Term Vaudreuil',191
+19100,0,'Valois - Gare Dorion',191
+19200,0,'AM',192
+19201,0,'PM',192
+19300,0,'Term Vaudreuil',193
+19401,0,'Term Vaudreuil',194
+20001,0,'Dorion - Chicoine',200
+21000,0,'Gare Île-Perrot',210
+21001,0,'Pte-Aux-Renards',210
+21101,0,'AM',211
+21100,0,'PM',211
+21200,0,'Gare Île-Perrot - Boul Perrot',212
+49000,0,'Bourget - REM',490
+49001,0,'Term Vaudreuil',490
+49100,0,'REM',491
+49101,0,'Term Vaudreuil',491
+49300,0,'Cégep John Abbott',493
+49301,0,'Term Vaudreuil',493
+59101,0,'Gare Dorion',591
+59100,0,'REM',591
+59301,0,'Notre-Dame-De-L''Île-Perrot',593
+59300,0,'Term Macdonald',593
+69500,0,'AM',695
+69501,0,'PM',695
+79001,0,'Dorion',790
+79000,0,'REM',790
+79301,0,'Gare Dorion',793
+79300,0,'Term Macdonald',793

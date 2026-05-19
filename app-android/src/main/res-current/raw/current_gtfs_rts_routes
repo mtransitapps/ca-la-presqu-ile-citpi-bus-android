@@ -1,28 +1,19 @@
-1,'1','Gare Vaudreuil / Parc Industriel / Seigneurie','',49,3
-2,'2','Gare Vaudreuil / Bourget / Des Sarcelles','',50,3
-3,'3','Gare Dorion / Valois / Tonnancour','',51,3
-4,'4','Gare Vaudreuil / Ouimet / Floralies','',52,3
-5,'5','Gare Vaudreuil / Gare Dorion','',53,3
-6,'6','Gare Vaudreuil / CSSS / Du Ruisselet / Émile-Bouchard','',54,3
-7,'7','Gare Vaudreuil / John Abbott / Pointe-Claire','',55,3
-8,'8','Gare Dorion / Chicoine / St-Antoine','',56,3
-9,'9','Gare Vaudreuil / Gare Dorion / Marier','',57,3
-10,'10','Gare Vaudreuil / Auto-Plaza-Brunswick','',1567,3
-15,'15','Gare Vaudreuil / Gare Dorion Via Valois P-G-L','',1572,3
-21,'21','Gare Vaudreuil / Hudson / St-Charles','',1599,3
-31,'31','Gare Pincourt T-V / Cardinal-Léger','',1630,3
-33,'33','Gare Pincourt T-V / Forest','',1632,3
-35,'35','Dorion / Ste-Anne-De-Bellevue Via L''Ile Perrot','',1634,3
-41,'41','Gare Île-Perrot / Boishatel / Perrier / F Cuillerier','',1661,3
-42,'42','Gare Île-Perrot / Des Érables / Lucien-Manning','',1662,3
-43,'43','Gare Île-Perrot / Perrot / Rivelaine','',1663,3
-44,'44','Gares Pincourt / T-V Ile-Perrot / John-Abbott','',1664,3
-45,'45','Virginie-Roy / Ste-Anne-De-Bellevue','',1665,3
-46,'46','Gare Île-Perrot / Don Quichotte / Pointe-Du-Domaine','',1666,3
-47,'47','Perrot / Caza / Pointe-Du-Domaine','',1667,3
-51,'51','Gare Vaudreuil / St-Lazare','',1692,3
-61,'61','Gare Vaudreuil / Rigaud','',1723,3
-91,'91','Gérald-Godin / Pointe-Claire','',1816,3
-115,'115','Gare Vaudreuil / Dorion (Av De La Fabrique)','',48661,3
-335,'335','Gare Pincourt T-V / Ste-Anne-De-Bellevue','',50645,3
-1000040,'A40','Express Vaudreuil - Terminus Côte-Vertu','',1660,3
+188,'188','Terminus Vaudreuil - Hudson','',48881,3
+189,'189','Terminus Vaudreuil - St-Lazare','',48882,3
+190,'190','Terminus Vaudreuil - St-Charles - Gare Dorion','',48904,3
+191,'191','Terminus Vaudreuil - Valois - Gare Dorion','',48905,3
+192,'192','Terminus Vaudreuil - Joseph-Carrier','',48906,3
+193,'193','Terminus Vaudreuil - Ouimet - Floralies','',48907,3
+194,'194','Terminus Vaudreuil - Émile-Bouchard - Floralies','',48908,3
+200,'200','Gare Dorion - Chicoine','',49586,3
+210,'210','Gare Île-Perrot - Pointe-Aux-Renards','',49617,3
+211,'211','Gare Île-Perrot - Pointe-Du-Moulin','',49618,3
+212,'212','Gare Île-Perrot - Perrot','',49619,3
+490,'490','Terminus Vaudreuil - Bourget - REM','',51787,3
+491,'491','Terminus Vaudreuil - REM','',51788,3
+493,'493','Terminus Vaudreuil - Cégep John Abbott','',51790,3
+591,'591','Gare Dorion - Île Perrot - REM','',52749,3
+593,'593','Notre-Dame-De-L''Île-Perrot - Terminus Macdonald','',52751,3
+695,'695','Rigaud - Terminus Vaudreuil','',53714,3
+790,'790','Dorion - Île Perrot - REM','',54670,3
+793,'793','Gare Dorion - Île Perrot - Terminus Macdonald','',54673,3

@@ -1,0 +1,18 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "trip_id_cleanup_regex": "PI\\-\\w{1}\\d{2}\\-(PI_GTFS)\\-",
+    "trip_id_cleanup_regex_comment": "remove trip ID shared by all trip IDs (include season letter and YY year)",
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [],
+    "stop_name_cleaners": [
+        {
+            "regex": "(civique (\\d+))",
+            "ignore_case": true,
+            "replacement": "#$2",
+            "comment": "replace 'civique' with '#'"
+        }
+    ]
+}

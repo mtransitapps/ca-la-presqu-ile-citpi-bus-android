@@ -1,0 +1,10 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "1F1F1F",
+    "default_color_comment": "DARK GRAY (from website/GTFS)",
+    "default_color_enabled": true,
+    "service_id_cleanup_regex": "^PI\\-\\w{1}\\d{2}\\-(PI_GTFS)\\-",
+    "service_id_cleanup_regex_comment": "remove beginning of service ID shared by all service IDs (include season letter and YY year)",
+    "default_strings_cleaner_enabled": true,
+    "ignore_upper_case_words": []
+}
